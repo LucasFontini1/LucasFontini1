@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Lucas Fontini and I'm a developer, from Brasil</h2>
+<h2 data-importer="text" align="left">OIIII! Me chamo Lucas Fontini da Luz</h2>
 
 ###
 
